@@ -1,8 +1,3 @@
-                        CS2610 Computer Organization and Architecture Lab 
-                                        Assignment 8
-                 Abdullah Mohammed - CS20B001, Aditya Vaichalkar - CS20B084
-
-
 Please find below the instructions to execute the scalar pipelined processor simulator: 
 
 1) Store the input files as follows:
